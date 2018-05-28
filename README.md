@@ -1,2 +1,2 @@
-# angular_webapp
-Project build with angular 5
+# My Recipes app
+This small web app is build with Angular 6. 
